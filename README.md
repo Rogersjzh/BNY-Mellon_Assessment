@@ -4,7 +4,7 @@ The software used for this question is called **AutoMod**, which can be download
 
 After successful downloading, we need to run the software and **open the model file** in the software:
 1. Click **File > Open**.
-2. Navigate to the file **(root)\bny_mellon.arc\model.amo**, then click **Open**.
+2. Navigate to the file **bny_mellon.arc\model.amo**, then click **Open**.
 
 Note that there are two environment for the software (we are in the **edit environment** now):
 * In **edit environment**:
