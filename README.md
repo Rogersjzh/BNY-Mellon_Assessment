@@ -4,7 +4,7 @@ The software used for this question is called **AutoMod**, which can be download
 
 After successful downloading, we need to run the software and **open the model file** in the software:
 1. Click **File > Open**.
-2. Navigate to the file **(root)\lecture1\example1\examp1.arc\model.amo**, then click **Open**.
+2. Navigate to the file **(root)\bny_mellon.arc\model.amo**, then click **Open**.
 
 Note that there are two environment for the software (we are in the **edit environment** now):
 * In **edit environment**:
@@ -32,5 +32,6 @@ To display a **report**:
 2. In the Reports dialog box, click **Queues** in the entity list, then click **Display**.
 
 # Output Results
+My answers to Question 4 and the output results are shown in the attached PDF.
 
 
