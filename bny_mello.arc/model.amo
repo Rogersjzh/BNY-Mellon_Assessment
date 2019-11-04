@@ -1,0 +1,6 @@
+VERSION 14.0.0.14
+UNITS Feet Seconds
+RNSET 1
+DRAWPOS minx -73 maxx -23.5747440944882 miny 9 maxy 39.0526312335958 minz 0 maxz 4 trx 0 try 0
+PROCSYS name bny_mellon~
+	SYSPOS endx 1
